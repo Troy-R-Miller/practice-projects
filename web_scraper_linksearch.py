@@ -1,6 +1,6 @@
 #extract href= values from user URL
 #scan for a tag in a particular position and cycle through the link 'x' amount of times
-#idenify the name in the final link
+#identify the name in the final link
 #link used for program has internal links that change positions (find position 18, cycle 7 times)
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
@@ -18,7 +18,7 @@ position = int(input("Enter position: "))
 print('Retrieving:' , url)
 
 #follow links and collect page content
-for links in range(cycle):
+for names in range(cycle):
     html = urllib.request.urlopen(url, context=ctx).read()
     soup = BeautifulSoup(html, 'html.parser')
 #collect anchor tags

@@ -11,3 +11,7 @@ The objective of this project was to identify 'name' within a host url at 'x' po
 Project 3 - web_scraper_test
 
 The objective of this project was simple; scrape the given url for students scores (comments) and provide the sum of all scores. Once the proper tag was identified, we were able to look at all parts of the tag and convert the contents of the tag into an integer, leading to the sum of all scores
+
+Project 4 - JSON / XML Data Extraction 
+
+This project was designed to exemplify methods learned to extract data from JSON and XML files. The data to be extracted from the XML and JSON files were essentially the same. We were tasked with identifying reading each file, and identifying comment counts in each. Once the comment counts were set in a list, we were to count the items and calculate the sum. In the JSON file, I went as far as to assign the desired JSON list to "item_location" doing this allowed me to visualize the list as a whole and maintain a clear path to the solution.  

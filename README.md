@@ -6,7 +6,7 @@ The purpose of this project was to demonstrate data extraction using regular exp
 
 Project 2 - web_scraper_linksearch
 
-The objective of this project was to identify 'name' within a url at 'x' position after cycling through the scraped url 'y' amount of times. The url used for the project contains internal links that change positions every few seconds. By creating a simple web scraper, scripted to collect user input and collect data within a range(cycle), I was able to successfuly identify ('name' within url) at 'x' position after cycling through the given url 'y' times. The provided parameters were (18, 7) respectively. 
+The objective of this project was to identify 'name' within a host url at 'x' position after cycling through the scraped url 'y' amount of times. The url used for the project contains internal links to student pages which change positions every few seconds. By creating a simple web scraper, scripted to collect user input and collect data within a range(cycle), I was able to successfuly identify ('name' within page url) at 'x' position after cycling through the given host url 'y' times. The provided parameters were (18, 7) respectively. 
 
 Project 3 - web_scraper_test
 

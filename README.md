@@ -15,3 +15,7 @@ The objective of this project was simple; scrape the given url for students scor
 Project 4 - JSON / XML Data Extraction 
 
 This project was designed to exemplify methods learned to extract data from JSON and XML files. The data to be extracted from the XML and JSON files were essentially the same. We were tasked with identifying reading each file, and identifying comment counts in each. Once the comment counts were set in a list, we were to count the items and calculate the sum. In the JSON file, I went as far as to assign the desired JSON list to "item_location" doing this allowed me to visualize the list as a whole and maintain a clear path to the solution.  
+
+Project 4 - Using Python to access geocoding API 
+
+We initiated this project to identify a specific JSON key and value of a desired address location. We were edit, debug and elaborate on a program that gains access to Geo Location API, and retrieves the locations plus_code. This was a fun project and it helped me confirm my ability to analyze JSON data to successfully extract proper data points with a program. Applying guardian code to this program allowed me to work through tests without many tracebacks. I commented print statements that any user can look at an implement said statements as needed to identify the proper keys are being retireved from JSON data. 
